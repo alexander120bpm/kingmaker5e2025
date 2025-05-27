@@ -1,7 +1,7 @@
 # D&D 5e24 Kingmaker Campaign 2025
 
 [Kingmaker Adventure Path](https://paizo.com/store/pathfinder/adventures/adventurePath/kingmakerap)  
-[Download link for Kingmaker Player's Guide](https://downloads.paizo.com/Kingmaker+Players+Guide.pdf)
+[Download link for Kingmaker Player's Guide PDF](https://downloads.paizo.com/Kingmaker+Players+Guide.pdf)
 
 ## 📖 Rules
 ### 💯Ability Scores
