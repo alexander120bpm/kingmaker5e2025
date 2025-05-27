@@ -5,6 +5,9 @@
 
 I recommend reading the How To Use This Guide and the Character Creation chapter p.3-9. You can save the Kingdoms, Warfare, and Resources chapter for later in the campaign.
 
+## Overview
+The Kingmaker Adventure Path presents a full-length campaign that chronicles the rise of a new nation—a kingdom built and ruled by your player characters! Face off against bands of bloodthirsty bandits, deadly and dangerous monsters, and mysterious menaces from other realities as you fight to claim the Stolen Lands as your own. Will you rule with justice and mercy, or will you become the very monsters you fought to oppose? In the Kingmaker Adventure Path, the destiny of the world’s newest nation is yours to decide!
+
 ## 📖 Rules
 ### 💯Ability Scores
 Choose one of the following methods:
@@ -66,3 +69,62 @@ Roll 4d6 drop the lowest. Re-roll the entire set until the three conditions are 
 | Thaumaturge  | Warlock or Bard (Spirits)             | Relic-hunter and supernatural investigator           | Lorekeeper, Spymaster               |
 | Witch        | Warlock (Archfey/Hexblade)            | Mystic caster tied to fey or fate                    | Magister, Advisor                   |
 | Wizard       | Wizard                                | Scholarly spellcaster, kingdom builder               | Magister, Advisor                   |
+
+## 🗺️ Backgrounds
+| **Kingmaker Background** | **D&D 5e Equivalent**                |
+| ------------------------ | ------------------------------------ |
+| Borderlands Pioneer      | Guide or Hermit                      |
+| Brevic Noble             | Acolyte or Noble or Sage             |
+| Brevic Outcast           | Charlatan or Entertainer or Merchant |
+| Issian Patriot           | Artisan or Guard or Scribe           |
+| Local Brigand            | Criminal or Wayfarer                 |
+| Rostlander               | Farmer or Soldier                    |
+| Sword Scion              | Guard or Soldier                     |
+
+## ⛩️ Deities
+| Pathfinder Deity | Portfolio                             | D&D 5e Equivalent(s)                                    | Exandria Equivalent(s)                                      |
+|------------------|----------------------------------------|--------------------------------------------------------|-------------------------------------------------------------|
+| Abadar           | God of cities, law, wealth             | Helm (order/law), Waukeen (wealth/trade)              | Erathis (law, civilization)                                 |
+| Asmodeus         | God of contracts, tyranny, pride       | Asmodeus (same in 5e)                                 | Asmodeus (same)                                             |
+| Calistria        | Goddess of lust, revenge, trickery     | Lolth (chaotic vengeance), Sharess (pleasure)         | The Spider Queen (Lolth), The Luxon (vengeance theme)      |
+| Cayden Cailean   | God of freedom, ale, bravery           | Cayden Cailean (homebrew), Olidammara (fun/freedom)   | The Moonweaver (freedom, trickery)                          |
+| Desna            | Goddess of dreams, luck, travel        | Sehanine Moonbow, Tymora                              | Sehanine (same)                                             |
+| Erastil          | God of family, farming, hunting        | Chauntea (agriculture), Silvanus (nature)             | The Wildmother (Melora)                                     |
+| Gorum            | God of strength and war                | Tempus, Kord                                          | The Stormlord (Kord)                                        |
+| Gozreh           | God of nature, sea, weather            | Melora, Umberlee (storm/water)                        | The Wildmother (Melora), The Stormlord (storms)            |
+| Iomedae          | Goddess of honor, justice, valor       | Torm, Tyr                                             | The Platinum Dragon (Bahamut), The Lawbearer (Erathis)     |
+| Lamashtu         | Goddess of monsters and madness        | Lolth, Beshaba, or Tharizdun                          | The Spider Queen, The Crawling King                         |
+| Nethys           | God of magic and duality               | Mystra, Azuth                                         | The Knowing Mentor (Ioun)                                   |
+| Pharasma         | Goddess of birth, death, fate          | The Raven Queen, Kelemvor                            | The Raven Queen                                              |
+| Rovagug          | God of destruction and chaos           | Tharizdun, Gruumsh                                    | The Ruiner                                                   |
+| Sarenrae         | Goddess of healing, sun, redemption    | Lathander, Pelor                                     | The Everlight (Sarenrae)                                    |
+| Shelyn           | Goddess of beauty, art, love           | Sune                                                 | The Everlight (as patron of love and art), The Moonweaver   |
+| Torag            | God of forge, protection, dwarves      | Moradin                                              | The Allhammer (Moradin)                                     |
+| Urgathoa         | Goddess of undeath, disease, gluttony  | Vecna, Myrkul                                        | The Whispered One (Vecna)                                   |
+| Zon-Kuthon       | God of pain, darkness, loss            | Shar, Loviatar                                       | The Strife Emperor (Bane), The Betrayer Gods                |
+
+## 🌌 Planes of Existence
+
+| Pathfinder Plane        | Description                                               | D&D 5e Equivalent                    |
+|-------------------------|-----------------------------------------------------------|--------------------------------------|
+| Material Plane: Golarion          | The mortal world; central plane of existence              | Material Plane: Exandria                      |
+| First World             | Primeval fey realm, raw creation, unpredictable            | Feywild                              |
+| Shadow Plane            | Dark, distorted mirror of the Material Plane              | Shadowfell                           |
+| Ethereal Plane          | Misty border realm connecting planes                      | Ethereal Plane                       |
+| Astral Plane            | Vast silver void; connects all planes                     | Astral Plane                         |
+| Heaven                  | Lawful Good; mountain paradise of justice and valor       | Mount Celestia                       |
+| Elysium                 | Chaotic Good; realm of free will and joy                  | Arborea                              |
+| Nirvana                 | Neutral Good; enlightenment and peace                     | Elysium (D&D’s version)              |
+| Hell                    | Lawful Evil; structured tyranny and punishment            | Nine Hells of Baator                 |
+| Abyss                   | Chaotic Evil; endless layers of destruction               | The Abyss                            |
+| Abaddon                 | Neutral Evil; apocalyptic realm of annihilation           | (No direct analog; closest: Carceri or a void between) |
+| Axis                    | Lawful Neutral; perfect order and cosmic law              | Mechanus                             |
+| Maelstrom               | Chaotic Neutral; swirling chaos and potential             | Limbo                                |
+| Boneyard                | Plane of death and judgment (Pharasma’s realm)            | Fugue Plane (with Raven Queen overlay) |
+| Positive Energy Plane   | Realm of pure life and creation energy                    | Positive Plane                       |
+| Negative Energy Plane   | Realm of undeath, entropy, and decay                      | Negative Plane                       |
+| Elemental Plane of Air  | Domain of pure air and wind                               | Elemental Plane of Air               |
+| Elemental Plane of Earth| Domain of rock, stone, and subterranean power            | Elemental Plane of Earth             |
+| Elemental Plane of Fire | Realm of fire, heat, and flame                            | Elemental Plane of Fire              |
+| Elemental Plane of Water| Oceanic and aquatic dimension                             | Elemental Plane of Water             |
+| The Dreamlands          | Collective unconscious and dreamscape                     | Plane of Dreams (homebrew or The Far Realm adjunct) |
