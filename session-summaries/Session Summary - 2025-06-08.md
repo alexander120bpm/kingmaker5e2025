@@ -12,19 +12,19 @@ The adventuring party consists of:
 
 ### Important Events
 
-**The Call to Adventure**
+**The Call to Adventure**  
 The adventurers gather at Aldori Manor in the city of Restov, having been summoned by Lady Jamandi Aldori. [cite: 53, 54] She and Lord Mayor Ioseph Sellemius announce their intention to support heroes willing to venture into the dangerous, monster-infested "Stolen Lands." [cite: 167, 168, 169] Those who succeed in driving off the bandits and monsters will be granted titles of nobility and Rastov's military and economic support. [cite: 169, 171, 172]
 
-**The Feast and Introductions**
+**The Feast and Introductions**  
 Before the details of their missions are revealed, a grand feast is held. [cite: 174, 175] At their table, the party meets two other individuals: a colorfully dressed gnome named Tartuccio [cite: 178] and a noble human named Maegar Varn. [cite: 186] Varn reveals he is the third son of a baron and must make his own name. [cite: 203, 204] The party also interacts with other adventurers, including Amiri, a female barbarian with a giant sword and Harrim, a dwarven cleric of Groetus (god of end times). [cite: 223, 224, 235]
 
-**The Ambush**
+**The Ambush**  
 In the middle of the night, the party is awakened by cries in the hallway. [cite: 377] They discover that assassins in dark armor are murdering the guests. [cite: 388, 389] The adventurers are forced to defend themselves as the killers breach their room. [cite: 389, 423, 424] Yannick sets a magical snare trap just inside their door, which successfully captures one of the intruders. [cite: 370, 499, 501]
 
-**Interrogation and Investigation**
+**Interrogation and Investigation**  
 After defeating the initial wave of attackers, the party captures one survivor. [cite: 627, 634] Through interrogation, they learn the assassins are from the Black Tears gang and were hired in the town of New Stetven to kill everyone in the manor. [cite: 733, 744, 748, 749] A search of the guest wing reveals that other adventurers have been killed. [cite: 715]
 
-**The Garden Battle**
+**The Garden Battle**  
 Following sounds of fighting, the party moves into a large indoor garden. [cite: 753, 785] There, they encounter and defeat another group of four assassins from the Black Tears gang. [cite: 792, 832, 863, 871] During this exploration, Nyxy discovers a hidden compartment in a statue. [cite: 922, 923]
 
 ### Locations
