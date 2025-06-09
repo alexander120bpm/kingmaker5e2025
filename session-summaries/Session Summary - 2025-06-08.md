@@ -37,8 +37,15 @@ Following sounds of fighting, the party moves into a large indoor garden. [cite:
 ### Treasure
 
 The party acquired the following items from the fallen assassins and exploration:
-* **Money:** 18 silver pieces found on the first group of assassins [cite: 648] and 12 silver pieces on the second group. [cite: 877] *  silver ring worth 15 gold pieces, found by Thumper. [cite: 762]
-* **Weapons & Armor:** 10 hand crossbows, daggers with ebony pommels, and studded leather armor. [cite: 594, 662, 897, 899]
+* **Money:**
+   * 18 silver pieces found on the first group of assassins [cite: 648]
+   * 12 silver pieces on the second group. [cite: 877]
+   * silver ring worth 15 gold pieces, found by Thumper. [cite: 762]
+* **Weapons & Armor:**
+   * 10 hand crossbows
+   * 10 daggers with ebony pommels
+   * 10 studded leather armors.
+   * [cite: 594, 662, 897, 899]
 * **Magic Items & Potions:**
     * A vial of Alchemist's Fire. [cite: 904]
     * A healing potion [cite: 761]
